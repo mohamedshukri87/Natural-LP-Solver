@@ -1,0 +1,13 @@
+INFO:root:Hello
+INFO:root:Hello
+INFO:root:Hello
+INFO:root:AI has successfully generated a structurally correct model
+INFO:root:All objective coefficients are in line with the set variables
+INFO:root:All constraint coefficients are in line with the set variables
+INFO:root:All outputs are correctly non-negative
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
